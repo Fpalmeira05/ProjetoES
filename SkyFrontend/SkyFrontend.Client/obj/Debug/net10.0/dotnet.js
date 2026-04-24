@@ -5,7 +5,7 @@ var e=!1;const t=async()=>WebAssembly.validate(new Uint8Array([0,97,115,109,1,0,
   "mainAssemblyName": "SkyFrontend.Client",
   "applicationEnvironment": "Development",
   "resources": {
-    "hash": "sha256-Eg16ikx6ojCX5wSuKN4H7xCSR9fhFKh8UQuNYNYVTRA=",
+    "hash": "sha256-KnBL9GoxvNUCIFttgbROpDiqlTySDqNkgqoNKYyA3oM=",
     "jsModuleNative": [
       {
         "name": "dotnet.native.69poregybn.js"
@@ -1242,16 +1242,16 @@ var e=!1;const t=async()=>WebAssembly.validate(new Uint8Array([0,97,115,109,1,0,
       },
       {
         "virtualPath": "SkyFrontend.Client.wasm",
-        "name": "SkyFrontend.Client.0razaj3pfh.wasm",
-        "integrity": "sha256-1Pg3H84V7k2JQdoD/azlQozKn87Z/WTJ8ZJEh05Mf8Y=",
+        "name": "SkyFrontend.Client.jeoclp3kkc.wasm",
+        "integrity": "sha256-dZAkHF7HqgnNK1vHkI+jx3gZJDb7rU67U0HXd4pIp3c=",
         "cache": "force-cache"
       }
     ],
     "pdb": [
       {
         "virtualPath": "SkyFrontend.Client.pdb",
-        "name": "SkyFrontend.Client.5rs85m5qew.pdb",
-        "integrity": "sha256-kVCMnyBgj0Y0xy0r/iVG54VqFE52IqDknXs2x6fQWdY=",
+        "name": "SkyFrontend.Client.6xwekxfwv2.pdb",
+        "integrity": "sha256-1rk0bu58tCyH0iI1qb0at5vuj1enVoDM8F5vIQyeQRk=",
         "cache": "force-cache"
       }
     ],
