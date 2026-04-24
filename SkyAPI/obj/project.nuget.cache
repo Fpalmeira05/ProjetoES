@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZK5c0Cl0fqk=",
+  "dgSpecHash": "AX/aCEAG0vs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\UNI\\3ano\\ES\\ProjetoES\\skyAPI\\SkyAPI.csproj",
+  "projectFilePath": "C:\\Users\\user\\Desktop\\UNI\\3ano\\ES\\ProjetoES\\SkyAPI\\SkyAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.3\\microsoft.aspnetcore.openapi.10.0.3.nupkg.sha512",

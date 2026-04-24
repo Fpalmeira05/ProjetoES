@@ -1,0 +1,42 @@
+@page "/"
+@rendermode @(new InteractiveWebAssemblyRenderMode(prerender: false))
+@inject HttpClient Http
+
+<PageTitle>Teste de Ligação SkyMedia</PageTitle>
+
+<div class="container mt-5 text-center">
+    <h1>Teste de Arquitetura - Caminho B</h1>
+    <p>Vamos verificar se o Frontend e o Backend estão a comunicar.</p>
+
+    <button class="btn btn-primary btn-lg mt-3" @onclick="TestarAPI">
+        Fazer "Ping" à API
+    </button>
+
+    <div class="mt-4">
+        <h4 class="@CorMensagem">@MensagemEstado</h4>
+    </div>
+</div>
+
+@code {
+    private string MensagemEstado = "A aguardar clique no botão...";
+    private string CorMensagem = "text-secondary";
+
+    private async Task TestarAPI()
+    {
+        try
+        {
+            MensagemEstado = "A contactar a API...";
+            
+            // Vai tentar aceder ao TesteController
+            var resposta = await Http.GetStringAsync("api/teste");
+            
+            MensagemEstado = $"✅ Sucesso! A API respondeu: {resposta}";
+            CorMensagem = "text-success";
+        }
+        catch (Exception ex)
+        {
+            MensagemEstado = $"🚨 Falha de ligação: {ex.Message}";
+            CorMensagem = "text-danger";
+        }
+    }
+}

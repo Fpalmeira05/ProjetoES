@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SkyFrontend.Client")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b5f4235b4feed798985ec85b0f49077823b31058")]
 [assembly: System.Reflection.AssemblyProductAttribute("SkyFrontend.Client")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SkyFrontend.Client")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
