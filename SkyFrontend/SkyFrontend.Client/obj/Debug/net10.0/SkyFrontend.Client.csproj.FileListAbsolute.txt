@@ -1282,8 +1282,6 @@ E:\uni\4Ano\Engenharia_de_Software\Laboratorial\ProjetoES\SkyFrontend\SkyFronten
 E:\uni\4Ano\Engenharia_de_Software\Laboratorial\ProjetoES\SkyFrontend\SkyFrontend.Client\bin\Debug\net10.0\wwwroot\_framework\mscorlib.k0eqaq9do2.wasm
 E:\uni\4Ano\Engenharia_de_Software\Laboratorial\ProjetoES\SkyFrontend\SkyFrontend.Client\bin\Debug\net10.0\wwwroot\_framework\netstandard.xl4f7m8snf.wasm
 E:\uni\4Ano\Engenharia_de_Software\Laboratorial\ProjetoES\SkyFrontend\SkyFrontend.Client\bin\Debug\net10.0\wwwroot\_framework\System.Private.CoreLib.mwo4f5vsvi.wasm
-E:\uni\4Ano\Engenharia_de_Software\Laboratorial\ProjetoES\SkyFrontend\SkyFrontend.Client\bin\Debug\net10.0\wwwroot\_framework\SkyFrontend.Client.jeoclp3kkc.wasm
-E:\uni\4Ano\Engenharia_de_Software\Laboratorial\ProjetoES\SkyFrontend\SkyFrontend.Client\bin\Debug\net10.0\wwwroot\_framework\SkyFrontend.Client.6xwekxfwv2.pdb
 E:\uni\4Ano\Engenharia_de_Software\Laboratorial\ProjetoES\SkyFrontend\SkyFrontend.Client\bin\Debug\net10.0\wwwroot\_framework\dotnet.js
 E:\uni\4Ano\Engenharia_de_Software\Laboratorial\ProjetoES\SkyFrontend\SkyFrontend.Client\bin\Debug\net10.0\wwwroot\_framework\blazor.webassembly.js.gz
 E:\uni\4Ano\Engenharia_de_Software\Laboratorial\ProjetoES\SkyFrontend\SkyFrontend.Client\bin\Debug\net10.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.3ur142rhlk.wasm.gz
@@ -1493,8 +1491,6 @@ E:\uni\4Ano\Engenharia_de_Software\Laboratorial\ProjetoES\SkyFrontend\SkyFronten
 E:\uni\4Ano\Engenharia_de_Software\Laboratorial\ProjetoES\SkyFrontend\SkyFrontend.Client\bin\Debug\net10.0\wwwroot\_framework\icudt_CJK.tjcz0u77k5.dat.gz
 E:\uni\4Ano\Engenharia_de_Software\Laboratorial\ProjetoES\SkyFrontend\SkyFrontend.Client\bin\Debug\net10.0\wwwroot\_framework\icudt_EFIGS.tptq2av103.dat.gz
 E:\uni\4Ano\Engenharia_de_Software\Laboratorial\ProjetoES\SkyFrontend\SkyFrontend.Client\bin\Debug\net10.0\wwwroot\_framework\icudt_no_CJK.lfu7j35m59.dat.gz
-E:\uni\4Ano\Engenharia_de_Software\Laboratorial\ProjetoES\SkyFrontend\SkyFrontend.Client\bin\Debug\net10.0\wwwroot\_framework\SkyFrontend.Client.jeoclp3kkc.wasm.gz
-E:\uni\4Ano\Engenharia_de_Software\Laboratorial\ProjetoES\SkyFrontend\SkyFrontend.Client\bin\Debug\net10.0\wwwroot\_framework\SkyFrontend.Client.6xwekxfwv2.pdb.gz
 E:\uni\4Ano\Engenharia_de_Software\Laboratorial\ProjetoES\SkyFrontend\SkyFrontend.Client\bin\Debug\net10.0\wwwroot\_framework\dotnet.js.gz
 E:\uni\4Ano\Engenharia_de_Software\Laboratorial\ProjetoES\SkyFrontend\SkyFrontend.Client\bin\Debug\net10.0\SkyFrontend.Client.staticwebassets.runtime.json
 E:\uni\4Ano\Engenharia_de_Software\Laboratorial\ProjetoES\SkyFrontend\SkyFrontend.Client\bin\Debug\net10.0\SkyFrontend.Client.staticwebassets.endpoints.json
@@ -2135,9 +2131,6 @@ E:\uni\4Ano\Engenharia_de_Software\Laboratorial\ProjetoES\SkyFrontend\SkyFronten
 E:\uni\4Ano\Engenharia_de_Software\Laboratorial\ProjetoES\SkyFrontend\SkyFrontend.Client\obj\Debug\net10.0\compressed\rooeaa50bo-{0}-tjcz0u77k5-tjcz0u77k5.gz
 E:\uni\4Ano\Engenharia_de_Software\Laboratorial\ProjetoES\SkyFrontend\SkyFrontend.Client\obj\Debug\net10.0\compressed\d8o22ozdye-{0}-tptq2av103-tptq2av103.gz
 E:\uni\4Ano\Engenharia_de_Software\Laboratorial\ProjetoES\SkyFrontend\SkyFrontend.Client\obj\Debug\net10.0\compressed\11gqgnotj3-{0}-lfu7j35m59-lfu7j35m59.gz
-E:\uni\4Ano\Engenharia_de_Software\Laboratorial\ProjetoES\SkyFrontend\SkyFrontend.Client\obj\Debug\net10.0\compressed\lgws67scgj-{0}-jeoclp3kkc-jeoclp3kkc.gz
-E:\uni\4Ano\Engenharia_de_Software\Laboratorial\ProjetoES\SkyFrontend\SkyFrontend.Client\obj\Debug\net10.0\compressed\v35s4p07ap-{0}-6xwekxfwv2-6xwekxfwv2.gz
-E:\uni\4Ano\Engenharia_de_Software\Laboratorial\ProjetoES\SkyFrontend\SkyFrontend.Client\obj\Debug\net10.0\compressed\75kf3q5e1a-{0}-puuxqibixt-puuxqibixt.gz
 E:\uni\4Ano\Engenharia_de_Software\Laboratorial\ProjetoES\SkyFrontend\SkyFrontend.Client\obj\Debug\net10.0\staticwebassets.build.json
 E:\uni\4Ano\Engenharia_de_Software\Laboratorial\ProjetoES\SkyFrontend\SkyFrontend.Client\obj\Debug\net10.0\staticwebassets.build.json.cache
 E:\uni\4Ano\Engenharia_de_Software\Laboratorial\ProjetoES\SkyFrontend\SkyFrontend.Client\obj\Debug\net10.0\staticwebassets.development.json
@@ -2148,3 +2141,10 @@ E:\uni\4Ano\Engenharia_de_Software\Laboratorial\ProjetoES\SkyFrontend\SkyFronten
 E:\uni\4Ano\Engenharia_de_Software\Laboratorial\ProjetoES\SkyFrontend\SkyFrontend.Client\obj\Debug\net10.0\refint\SkyFrontend.Client.dll
 E:\uni\4Ano\Engenharia_de_Software\Laboratorial\ProjetoES\SkyFrontend\SkyFrontend.Client\obj\Debug\net10.0\SkyFrontend.Client.pdb
 E:\uni\4Ano\Engenharia_de_Software\Laboratorial\ProjetoES\SkyFrontend\SkyFrontend.Client\obj\Debug\net10.0\ref\SkyFrontend.Client.dll
+E:\uni\4Ano\Engenharia_de_Software\Laboratorial\ProjetoES\SkyFrontend\SkyFrontend.Client\bin\Debug\net10.0\wwwroot\_framework\SkyFrontend.Client.dspp6udf76.wasm
+E:\uni\4Ano\Engenharia_de_Software\Laboratorial\ProjetoES\SkyFrontend\SkyFrontend.Client\bin\Debug\net10.0\wwwroot\_framework\SkyFrontend.Client.jfielhxera.pdb
+E:\uni\4Ano\Engenharia_de_Software\Laboratorial\ProjetoES\SkyFrontend\SkyFrontend.Client\bin\Debug\net10.0\wwwroot\_framework\SkyFrontend.Client.dspp6udf76.wasm.gz
+E:\uni\4Ano\Engenharia_de_Software\Laboratorial\ProjetoES\SkyFrontend\SkyFrontend.Client\bin\Debug\net10.0\wwwroot\_framework\SkyFrontend.Client.jfielhxera.pdb.gz
+E:\uni\4Ano\Engenharia_de_Software\Laboratorial\ProjetoES\SkyFrontend\SkyFrontend.Client\obj\Debug\net10.0\compressed\lgws67scgj-{0}-dspp6udf76-dspp6udf76.gz
+E:\uni\4Ano\Engenharia_de_Software\Laboratorial\ProjetoES\SkyFrontend\SkyFrontend.Client\obj\Debug\net10.0\compressed\v35s4p07ap-{0}-jfielhxera-jfielhxera.gz
+E:\uni\4Ano\Engenharia_de_Software\Laboratorial\ProjetoES\SkyFrontend\SkyFrontend.Client\obj\Debug\net10.0\compressed\75kf3q5e1a-{0}-1ns577r8ci-1ns577r8ci.gz

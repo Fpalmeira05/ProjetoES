@@ -1,0 +1,63 @@
+@page "/tmdb-teste"
+@inject HttpClient Http
+
+<h1>Teste TMDB</h1>
+
+<input @bind="titulo" placeholder="Nome do filme" />
+<button @onclick="Pesquisar">Pesquisar</button>
+
+@if (!string.IsNullOrEmpty(erro))
+{
+    <p style="color:red">@erro</p>
+}
+
+@if (filmes == null)
+{
+    <p>Pesquisa ainda não realizada.</p>
+}
+else
+{
+    @foreach (var filme in filmes)
+    {
+        <div style="border:1px solid #ccc; margin:10px; padding:10px;">
+            <h3>@filme.Title</h3>
+            <p>@filme.Overview</p>
+
+            @if (!string.IsNullOrEmpty(filme.Poster_Path))
+            {
+                <img src="@($"https://image.tmdb.org/t/p/w200{filme.Poster_Path}")" />
+            }
+        </div>
+    }
+}
+
+@code {
+    private string titulo = "";
+    private string erro = "";
+
+    private List<TmdbMovieDto>? filmes;
+
+    private async Task Pesquisar()
+    {
+        erro = "";
+
+        try
+        {
+            filmes = await Http.GetFromJsonAsync<List<TmdbMovieDto>>(
+                $"api/tmdb/pesquisar?titulo={Uri.EscapeDataString(titulo)}"
+            );
+        }
+        catch (Exception ex)
+        {
+            erro = $"Erro: {ex.Message}";
+        }
+    }
+
+    public class TmdbMovieDto
+    {
+        public int Id { get; set; }
+        public string Title { get; set; } = "";
+        public string Overview { get; set; } = "";
+        public string? Poster_Path { get; set; }
+    }
+}
