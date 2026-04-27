@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\uni\\4Ano\\Engenharia_de_Software\\Laboratorial\\ProjetoES\\SkyFrontend\\SkyFrontend\\SkyFrontend.csproj": {}
+    "C:\\Users\\berna\\OneDrive\\Documentos\\GitHub\\ProjetoES\\SkyFrontend\\SkyFrontend\\SkyFrontend.csproj": {}
   },
   "projects": {
-    "E:\\uni\\4Ano\\Engenharia_de_Software\\Laboratorial\\ProjetoES\\SkyFrontend\\SkyFrontend.Client\\SkyFrontend.Client.csproj": {
+    "C:\\Users\\berna\\OneDrive\\Documentos\\GitHub\\ProjetoES\\SkyFrontend\\SkyFrontend.Client\\SkyFrontend.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\uni\\4Ano\\Engenharia_de_Software\\Laboratorial\\ProjetoES\\SkyFrontend\\SkyFrontend.Client\\SkyFrontend.Client.csproj",
+        "projectUniqueName": "C:\\Users\\berna\\OneDrive\\Documentos\\GitHub\\ProjetoES\\SkyFrontend\\SkyFrontend.Client\\SkyFrontend.Client.csproj",
         "projectName": "SkyFrontend.Client",
-        "projectPath": "E:\\uni\\4Ano\\Engenharia_de_Software\\Laboratorial\\ProjetoES\\SkyFrontend\\SkyFrontend.Client\\SkyFrontend.Client.csproj",
-        "packagesPath": "C:\\Users\\franc\\.nuget\\packages\\",
-        "outputPath": "E:\\uni\\4Ano\\Engenharia_de_Software\\Laboratorial\\ProjetoES\\SkyFrontend\\SkyFrontend.Client\\obj\\",
+        "projectPath": "C:\\Users\\berna\\OneDrive\\Documentos\\GitHub\\ProjetoES\\SkyFrontend\\SkyFrontend.Client\\SkyFrontend.Client.csproj",
+        "packagesPath": "C:\\Users\\berna\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\berna\\OneDrive\\Documentos\\GitHub\\ProjetoES\\SkyFrontend\\SkyFrontend.Client\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\franc\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\berna\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -377,17 +377,17 @@
         }
       }
     },
-    "E:\\uni\\4Ano\\Engenharia_de_Software\\Laboratorial\\ProjetoES\\SkyFrontend\\SkyFrontend\\SkyFrontend.csproj": {
+    "C:\\Users\\berna\\OneDrive\\Documentos\\GitHub\\ProjetoES\\SkyFrontend\\SkyFrontend\\SkyFrontend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\uni\\4Ano\\Engenharia_de_Software\\Laboratorial\\ProjetoES\\SkyFrontend\\SkyFrontend\\SkyFrontend.csproj",
+        "projectUniqueName": "C:\\Users\\berna\\OneDrive\\Documentos\\GitHub\\ProjetoES\\SkyFrontend\\SkyFrontend\\SkyFrontend.csproj",
         "projectName": "SkyFrontend",
-        "projectPath": "E:\\uni\\4Ano\\Engenharia_de_Software\\Laboratorial\\ProjetoES\\SkyFrontend\\SkyFrontend\\SkyFrontend.csproj",
-        "packagesPath": "C:\\Users\\franc\\.nuget\\packages\\",
-        "outputPath": "E:\\uni\\4Ano\\Engenharia_de_Software\\Laboratorial\\ProjetoES\\SkyFrontend\\SkyFrontend\\obj\\",
+        "projectPath": "C:\\Users\\berna\\OneDrive\\Documentos\\GitHub\\ProjetoES\\SkyFrontend\\SkyFrontend\\SkyFrontend.csproj",
+        "packagesPath": "C:\\Users\\berna\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\berna\\OneDrive\\Documentos\\GitHub\\ProjetoES\\SkyFrontend\\SkyFrontend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\franc\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\berna\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -399,8 +399,8 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "E:\\uni\\4Ano\\Engenharia_de_Software\\Laboratorial\\ProjetoES\\SkyFrontend\\SkyFrontend.Client\\SkyFrontend.Client.csproj": {
-                "projectPath": "E:\\uni\\4Ano\\Engenharia_de_Software\\Laboratorial\\ProjetoES\\SkyFrontend\\SkyFrontend.Client\\SkyFrontend.Client.csproj"
+              "C:\\Users\\berna\\OneDrive\\Documentos\\GitHub\\ProjetoES\\SkyFrontend\\SkyFrontend.Client\\SkyFrontend.Client.csproj": {
+                "projectPath": "C:\\Users\\berna\\OneDrive\\Documentos\\GitHub\\ProjetoES\\SkyFrontend\\SkyFrontend.Client\\SkyFrontend.Client.csproj"
               }
             }
           }

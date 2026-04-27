@@ -1952,19 +1952,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\franc\\.nuget\\packages\\": {}
+    "C:\\Users\\berna\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\uni\\4Ano\\Engenharia_de_Software\\Laboratorial\\ProjetoES\\SkyFrontend\\SkyFrontend.Client\\SkyFrontend.Client.csproj",
+      "projectUniqueName": "C:\\Users\\berna\\OneDrive\\Documentos\\GitHub\\ProjetoES\\SkyFrontend\\SkyFrontend.Client\\SkyFrontend.Client.csproj",
       "projectName": "SkyFrontend.Client",
-      "projectPath": "E:\\uni\\4Ano\\Engenharia_de_Software\\Laboratorial\\ProjetoES\\SkyFrontend\\SkyFrontend.Client\\SkyFrontend.Client.csproj",
-      "packagesPath": "C:\\Users\\franc\\.nuget\\packages\\",
-      "outputPath": "E:\\uni\\4Ano\\Engenharia_de_Software\\Laboratorial\\ProjetoES\\SkyFrontend\\SkyFrontend.Client\\obj\\",
+      "projectPath": "C:\\Users\\berna\\OneDrive\\Documentos\\GitHub\\ProjetoES\\SkyFrontend\\SkyFrontend.Client\\SkyFrontend.Client.csproj",
+      "packagesPath": "C:\\Users\\berna\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\berna\\OneDrive\\Documentos\\GitHub\\ProjetoES\\SkyFrontend\\SkyFrontend.Client\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\franc\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\berna\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
