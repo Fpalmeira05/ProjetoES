@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SkyAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b226af0c32abab16e5febca06f00d3fdd6c378ab")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a0416d41d04d2a3e4add80c9a5cf6b23ca7923f")]
 [assembly: System.Reflection.AssemblyProductAttribute("SkyAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SkyAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
